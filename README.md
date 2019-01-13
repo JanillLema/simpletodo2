@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 The following **additional** features are implemented:
 
@@ -33,6 +33,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+I kept running into some errors not encountered in the tutorial. For instance I kept getting 
+"Error:This Gradle plugin requires a newer IDE able to request IDE model level 3. For Android Studio this means version 3.0+". 
+In the end I was able to solve everything and the project was completed. 
 
 ## License
 
